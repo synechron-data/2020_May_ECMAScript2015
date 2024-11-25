@@ -1,0 +1,62 @@
+Standard built-in objects
+
+Value Properties
+	Infinity
+	NaN
+	undefined
+	globalThis
+
+Function Properties
+	eval()
+	parseInt()
+	parseFloat()
+	isNaN()
+	isFinite()
+	.....
+
+Fundamental Objects
+	Object
+	Function
+	Boolean
+	Symbol
+
+Error Objects
+	Error
+	AggregateError
+	SyntaxError
+	RangeError
+	....
+
+Numbers and Dates
+	Number
+	Math
+	Date
+
+Text Processing
+	String
+	RegExp
+
+Indexed Collections
+	Array
+	Int8Array
+	.....
+
+Keyed Collections
+	Map
+	Set
+	WeakMap
+	WeakSet
+
+Structured Data
+	ArrayBuffer
+	JSON
+	DataView
+	....
+
+Control Abstraction Objects
+	Promise
+	Generators
+
+Reflection
+	Reflect
+	Proxy
